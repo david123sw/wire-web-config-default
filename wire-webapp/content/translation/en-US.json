@@ -331,6 +331,8 @@
   "conversationsContacts": "Contacts",
   "conversationsEmptyConversation": "Group conversation",
   "conversationsNoConversations": "Start a conversation or create a group.",
+  "conversationsPopoverStickOnTop": "Stick On Top",
+  "conversationsPopoverUnstickOnTop": "Unstick On Top",
   "conversationsPopoverArchive": "Archive",
   "conversationsPopoverBlock": "Block…",
   "conversationsPopoverCancel": "Cancel request…",
